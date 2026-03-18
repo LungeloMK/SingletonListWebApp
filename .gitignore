@@ -1,0 +1,31 @@
+# NetBeans / Java EE build folders
+
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# NetBeans private files (user-specific)
+
+/nbproject/private/
+
+# Compiled files
+
+*.class
+
+# Packaged files
+
+*.war
+*.jar
+*.ear
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
